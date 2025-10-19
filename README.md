@@ -59,4 +59,9 @@ Understanding HR analytics through real-world data
 
 Employee_insights_dashboard link : https://drive.google.com/drive/folders/1t_xcoxAm_7jyX5EtXUtgvPa3YUvyWkV2?usp=sharing
 
+
+
   download full power bi dashboard (.pbix) file 
+
+
+Employee_insights_dashboard.pdf
